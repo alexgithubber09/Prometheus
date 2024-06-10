@@ -1,1 +1,3 @@
-# Prometheus
+На сервер 10.19.32.115 установлен Prometheus + Grafana
+На сервер 10.19.32.35 установлен node_exporter
+Дашборды экспортированы с сайта Grafana
